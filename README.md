@@ -1,5 +1,5 @@
 # Lab 8 - Starter
-Bernie Shan and Asad Imran
+Bernie Shan and Muhammad Imran
 
 1. I would fit my automated tests within a Github action that runs whenever code is pushed to ensure that there is constant feedback regarding the project. The other options require manual input and defeats the purpose of "automated" tests.
 2. No. End to end test should not get into the nitty gritty function output stuff.
